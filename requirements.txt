@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+streamlit
+pandas
+numpy
+scikit-learn
+sqlalchemy
+pydantic
+python-dotenv
+requests
+joblib
+matplotlib
+pytest
+apscheduler
